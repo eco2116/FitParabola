@@ -1,4 +1,4 @@
-## Implementation of problem:
+## Implementation of problem
 
 My program begins by reading in the user's input from the input file.
 Then, using this input, it generates evenly spaced data (t_i,b_i) for
