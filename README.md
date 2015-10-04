@@ -1,12 +1,4 @@
-Evan O'Connor
-eco2116
-Computational Linear Algebra
-Homework 4
-
-Parabolic Fit Test
-README.txt
-
-Implementation of problem:
+## Implementation of problem:
 
 My program begins by reading in the user's input from the input file.
 Then, using this input, it generates evenly spaced data (t_i,b_i) for
@@ -30,16 +22,9 @@ and back substitution.
 Finally, the program compares the input values of C, D, and E used to
 generate the non-perturbed data and the components of x hat from the parabolic fit.
 
-1. Navigate into eco2116_hw4_linear directory, ie:
-
-	cd eco2116_hw4_linear
-
-2. Compile
-
-	javac Matrix.java
-	javac FitParabolaTest.java
-
-3. Run test file with input file as the singular command line argument
-
-	java FitParabolaTest input
+ * Compile
+  * javac Matrix.java
+  * javac FitParabolaTest.java
+ * Run test file with input file as the singular command line argument
+  * java FitParabolaTest input
 
